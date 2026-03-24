@@ -1,0 +1,42 @@
+# SQLite (собирается из parquet)
+data/db/*.db
+data/db/*.db-journal
+data/db/*.db-wal
+
+# RAG / Chroma
+data/chroma/
+
+config.yaml
+data/logs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+*.egg
+
+# Node / frontend (React, Vite)
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+.vite/
+*.tsbuildinfo
+
+# IDE / editor
+.idea/
+.vscode/
+.cursor/
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+Описание_данных.docx

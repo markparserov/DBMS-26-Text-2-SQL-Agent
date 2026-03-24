@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Сколько записей в таблице потребления?",
+    "sql": "SELECT COUNT(*) AS cnt FROM consumption;",
+    "tables": ["consumption"],
+    "columns": ["consumption.*"]
+  },
+  {
+    "question": "Перечень регионов из market_access",
+    "sql": "SELECT DISTINCT region FROM market_access ORDER BY region;",
+    "tables": ["market_access"],
+    "columns": ["market_access.region"]
+  }
+]

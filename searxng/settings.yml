@@ -1,0 +1,24 @@
+use_default_settings: true
+
+server:
+  # Для приватного локального инстанса limiter можно отключить.
+  limiter: false
+  image_proxy: false
+  secret_key: "CHANGE_ME_WITH_OPENSSL_RAND_HEX_32"
+
+search:
+  # Важно: json нужен для tool-интеграции.
+  formats:
+    - html
+    - json
+
+  suspended_times:
+    SearxEngineAccessDenied: 60
+    SearxEngineTooManyRequests: 60
+    SearxEngineCaptcha: 300
+
+# Надежный базовый набор движков рекомендуется задавать через параметр
+# запроса `engines=duckduckgo,brave,bing,wikipedia`.
+
+valkey:
+  url: valkey://valkey:6379/0
