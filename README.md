@@ -19,6 +19,7 @@
 ## Скриншоты
 
 [!картинка1](https://github.com/user-attachments/assets/1b7d9b5d-cfad-451a-a3c5-8414bb94934f)
+
 (https://github.com/user-attachments/assets/55f3ceb7-de37-4b52-bb5d-256631d817fb)
 (https://github.com/user-attachments/assets/048ffe10-5f4b-4423-ade0-5a8e06e8e7ae)
 (https://github.com/user-attachments/assets/977b3f4f-011c-4908-bc0b-928c04ee25c0)
