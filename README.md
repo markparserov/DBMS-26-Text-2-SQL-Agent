@@ -18,25 +18,12 @@
 
 ## Скриншоты
 
-Приветствие и описание возможностей агента:
+(https://github.com/user-attachments/assets/1b7d9b5d-cfad-451a-a3c5-8414bb94934f)
+(https://github.com/user-attachments/assets/55f3ceb7-de37-4b52-bb5d-256631d817fb)
+(https://github.com/user-attachments/assets/048ffe10-5f4b-4423-ade0-5a8e06e8e7ae)
+(https://github.com/user-attachments/assets/977b3f4f-011c-4908-bc0b-928c04ee25c0)
+(https://github.com/user-attachments/assets/f2794c4a-2048-45f8-92c3-c10253f83f58)
 
-![Приветствие](https://github.com/markparserov/Text-2-SQL-Agent/releases/download/screenshots/intro.png)
-
-![Возможности](https://github.com/markparserov/Text-2-SQL-Agent/releases/download/screenshots/interface.png)
-
-Вопрос «Сколько муниципальных образований в базе данных?» — ответ 3101:
-
-![Подсчёт муниципальных образований](https://github.com/markparserov/Text-2-SQL-Agent/releases/download/screenshots/count.png)
-
-Топ-5 муниципальных образований по средней заработной плате (с отображением SQL):
-
-![Топ по зарплате](https://github.com/markparserov/Text-2-SQL-Agent/releases/download/screenshots/salary-top5.png)
-
-Муниципалитет с наибольшим населением (городской округ Новосибирск):
-
-![Наибольшее население](https://github.com/markparserov/Text-2-SQL-Agent/releases/download/screenshots/population-max.png)
-
-Чтобы скриншоты отображались, создайте релиз `screenshots` на GitHub и загрузите изображения с именами `intro.png`, `interface.png`, `count.png`, `salary-top5.png`, `population-max.png`. После загрузки локальные файлы `Снимок экрана 2026-03-22 в 16.11.06.png` и т.д. можно удалить.
 
 ## Структура
 
