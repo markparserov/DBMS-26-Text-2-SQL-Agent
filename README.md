@@ -18,13 +18,20 @@
 
 ## Скриншоты
 
-![картинка 1](https://github.com/user-attachments/assets/1b7d9b5d-cfad-451a-a3c5-8414bb94934f)
-![картинка 2](https://github.com/user-attachments/assets/55f3ceb7-de37-4b52-bb5d-256631d817fb)
+**Приветствие:**
+![картинка 1](https://github.com/user-attachments/assets/f2794c4a-2048-45f8-92c3-c10253f83f58)
+
+**Простой запрос:**
+![картинка 2](https://github.com/user-attachments/assets/977b3f4f-011c-4908-bc0b-928c04ee25c0)
+
+**Запрос посложнее:**
 ![картинка 3](https://github.com/user-attachments/assets/048ffe10-5f4b-4423-ade0-5a8e06e8e7ae)
-![картинка 4](https://github.com/user-attachments/assets/977b3f4f-011c-4908-bc0b-928c04ee25c0)
-![картинка 5](https://github.com/user-attachments/assets/f2794c4a-2048-45f8-92c3-c10253f83f58)
 
+**Режим выгрузки в Excel:**
+![картинка 4](https://github.com/user-attachments/assets/55f3ceb7-de37-4b52-bb5d-256631d817fb)
 
+**Режим отчета:**
+![картинка 5](https://github.com/user-attachments/assets/1b7d9b5d-cfad-451a-a3c5-8414bb94934f)
 
 ## Структура
 
